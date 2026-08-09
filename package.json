@@ -1,0 +1,49 @@
+{
+  "name": "weyland-viridian-storm",
+  "displayName": "Weyland Viridian Storm",
+  "description": "A dark Visual Studio Code theme inspired by Tokyo Night Storm & Dracula. Deep teal backgrounds with neon violet, hot pink, and acid yellow accents. Features syntax highlighting for TypeScript, React, Python, and .env files.",
+  "version": "1.0.0",
+  "publisher": "YuriWeyland",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "teal",
+    "neon",
+    "viridian",
+    "storm",
+    "weyland",
+    "tokyo night",
+    "dracula",
+    "vscode theme",
+    "syntax highlighting",
+    ".env",
+    "python",
+    "typescript",
+    "react",
+    "colorful",
+    "cyberpunk",
+    "retro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Weyland-Yuri/Weyland-Viridian-Storm.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Weyland Viridian Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Viridian Storm-color-theme.json"
+      }
+    ]
+  }
+}
