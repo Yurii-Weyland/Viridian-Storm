@@ -4,6 +4,25 @@ All notable changes to the "weyland-viridian-storm" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2026-08-14
+
+### Added
+
+- Full panel color theming (panelSection*, panelInput.border, panel.dropBorder)
+- Brighter foreground for the active panel tab
+
+### Changed
+
+- Version bumped to 1.2.0
+- Fixed repository URL to https://github.com/Yurii-Weyland/Viridian-Storm
+- Author metadata set to Weyland Yurii
+
+## [1.1.0] - 2026-08-14
+
+### Changed
+
+- Repository and publisher metadata alignment
+
 ## [1.0.0] - 2026-08-03
 
 ### Changed

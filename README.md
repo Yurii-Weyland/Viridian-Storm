@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-ff247f?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/version-1.2.0-ff247f?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-00df95?style=flat-square" alt="license">
   <img src="https://img.shields.io/badge/VS%20Code-%5E1.120.0-0da0ba?style=flat-square" alt="vscode">
   <img src="https://img.shields.io/badge/theme-dark-16222a?style=flat-square" alt="dark">
@@ -106,4 +106,4 @@ Then open Command Palette (`Ctrl+Shift+P`) → `Preferences: Color Theme` → se
 
 ## 📄 License
 
-MIT © [Yuri Chehorynskyi](https://github.com/Weyland-Yuri)
+MIT © [Yurii Weyland](https://github.com/Yurii-Weyland/Viridian-Storm/blob/main/LICENSE)
