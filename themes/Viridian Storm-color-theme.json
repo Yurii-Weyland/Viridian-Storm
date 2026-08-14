@@ -1,7 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Weyland Viridian Storm",
+  "name": "Weyland-Viridian-Storm",
   "type": "dark",
+
   "colors": {
     "focusBorder": "#0da0ba88",
     "foreground": "#d1e0eb",
@@ -67,6 +68,7 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBar.activeBorder": "#101a20",
     "activityBar.dropBorder": "#2c404b",
+    "activityBar.activeBackground": "#ff247f00",
     "sideBar.background": "#18262d",
     "sideBar.foreground": "#8299a8",
     "sideBar.border": "#0f171e",
@@ -133,7 +135,7 @@
     "terminal.ansiBlue": "#7aa2f7",
     "terminal.ansiMagenta": "#bb9af7",
     "terminal.ansiCyan": "#7dcfff",
-    "terminal.ansiWhite": "#8299a8",
+    "terminal.ansiWhite": "#a88288",
     "terminal.ansiBrightBlack": "#3e5764",
     "terminal.ansiBrightRed": "#ff9e9e",
     "terminal.ansiBrightGreen": "#9efff0",
@@ -151,8 +153,10 @@
     "panel.background": "#18262d",
     "panel.border": "#0f171e",
     "panelTitle.activeBorder": "#ff247f",
-    "panelTitle.activeForeground": "#d1e0eb",
+    "panelTitle.activeForeground": "#ff247f",
     "panelTitle.inactiveForeground": "#8299a8",
+    "panelTitle.activeBackground": "#00000000",
+    "panelSectionHeader.border": "#ff0000",
     "editorGroup.border": "#1f2f38",
     "editorGroup.dropBackground": "#121c23cc",
     "editorOverviewRuler.border": "#00000000",
@@ -235,6 +239,7 @@
     "notificationsInfoIcon.foreground": "#00ccee",
     "panelSectionHeader.background": "#21343e",
     "panelSectionHeader.foreground": "#d1e0eb",
+
     "settings.headerForeground": "#d1e0eb",
     "settings.modifiedItemIndicator": "#0da0ba",
     "settings.dropdownBackground": "#18262d",
