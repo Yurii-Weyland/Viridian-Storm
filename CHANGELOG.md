@@ -4,6 +4,26 @@ All notable changes to the "weyland-viridian-storm" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.1] - 2026-08-22
+
+### Added
+
+- Full **modern Activity Bar** support (VS Code experimental `modernUI`):
+  - `modernActivityBar.activeForeground`, `modernActivityBar.activeBackground`,
+    `modernActivityBar.hoverForeground`, `modernActivityBar.hoverBackground` — hot pink accents
+- **Modern tabs** support: `modernTab.*` (hover/active) and `modernEditorTab.*` colors
+- Restored the classic `tab.*` color set so tabs keep the theme when `modernUI` is off
+- Expanded terminal theming:
+  - `terminal.selectionForeground`, `terminal.inactiveSelectionBackground`
+  - `terminal.findMatchBorder`, `terminal.findMatchHighlightBorder`
+  - `terminal.tab.activeBorder`, `terminalCommandGuide.foreground`
+  - `terminalOverviewRuler.*`, `terminalStickyScroll.*`, `terminalStickyScrollHover.*`
+- `terminal.hoverHighlightBackground` hot pink hover link highlight
+
+### Changed
+
+- Version bumped to 1.3.1
+
 ## [1.3.0] - 2026-08-22
 
 ### Fixed
