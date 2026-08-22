@@ -4,6 +4,19 @@ All notable changes to the "weyland-viridian-storm" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0] - 2026-08-22
+
+### Fixed
+
+- Activity Bar no longer loses its hot-pink accents after the VS Code update:
+  - `activityBar.activeBackground` was fully transparent (`#ff247f00`) — made visible (`#ff247f26`)
+  - `activityBar.activeBorder` now glows hot pink (`#ff247f`) instead of blending into the background
+  - `activityBar.activeFocusBorder` is now visible (`#ff247f66`)
+- Added the new `activityBarTop.*` color set so the theme also works when the
+  Activity Bar is placed on the **top / bottom** (new VS Code layout support)
+- `tab.activeBorderTop` now shows the hot pink tab indicator (`#ff247f`)
+- `panelSectionHeader.border` no longer uses a debug-red `#ff0000`
+
 ## [1.2.0] - 2026-08-14
 
 ### Added
