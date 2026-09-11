@@ -4,6 +4,25 @@ All notable changes to the "weyland-viridian-storm" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.2] - 2026-09-11
+
+### Added
+
+- Full **modern UI** support for the new VS Code interface:
+  - `modernTab.*` colors (active/hover backgrounds & foregrounds)
+  - `modernEditorTab.*` colors (active, inactive, hover, and action states)
+  - `modernActivityBar.*` and `modernActivityBarItem.*` colors
+  - `surface.background`, `surface.foreground`, `surface.border`, `editor.border`
+  - `toolbar.hoverBackground`
+  - `scrollbarSlider.*` colors
+- **#modern** hashtag added to `keywords` and description updated in `package.json`
+- **Recommended settings** section (6px slim scrollbars) added to `README.md`
+
+### Changed
+
+- Version bumped to 1.3.2
+- Version badge in `README.md` updated to 1.3.2
+
 ## [1.3.1] - 2026-08-22
 
 ### Added

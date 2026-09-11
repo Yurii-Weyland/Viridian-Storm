@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.3.1-ff247f?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/version-1.3.2-ff247f?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/license-MIT-00df95?style=flat-square" alt="license">
   <img src="https://img.shields.io/badge/VS%20Code-%5E1.120.0-0da0ba?style=flat-square" alt="vscode">
   <img src="https://img.shields.io/badge/theme-dark-16222a?style=flat-square" alt="dark">
@@ -27,7 +27,19 @@
 
 ---
 
-A dark **Visual Studio Code** theme inspired by **Tokyo Night Storm** and **Dracula**. Deep teal backgrounds combined with vibrant neon accents — purple, hot pink, and acid yellow.
+A dark **Visual Studio Code** theme inspired by **Tokyo Night Storm** and **Dracula**. Deep teal backgrounds combined with vibrant neon accents — purple, hot pink, and acid yellow. Fully tuned for VS Code's **modern UI** — modern tabs, activity bar, and surfaces — while staying pixel-perfect in the classic layout.
+
+---
+
+## ⚙️ Recommended Settings
+
+For the cleanest, most modern look, add these slim scrollbar sizes to your **User Settings**
+(`Ctrl+Shift+P` → *Preferences: Open User Settings (JSON)*):
+
+```json
+"editor.scrollbar.verticalScrollbarSize": 6,
+"editor.scrollbar.horizontalScrollbarSize": 6,
+```
 
 ---
 
@@ -39,7 +51,7 @@ A dark **Visual Studio Code** theme inspired by **Tokyo Night Storm** and **Drac
 | 🔲 **Rainbow Brackets**      | Brackets are color-coded in multiple neon hues with matching pair guides — never lose track of nesting.                                                        |
 | 🔥 **Hot Pink Line Numbers** | The active line number glows in hot pink so you always know where you are.                                                                                     |
 | 📄 **.env Support**          | `.env` files get full syntax highlighting — variables, strings, numbers, booleans, comments, and export keywords all styled out of the box.                    |
-| 🖥️ **Beautiful UI**          | Every part of VS Code is themed — tabs, activity bar, side bar, status bar, panel, terminal, minimap, scrollbar, menus, dropdowns, buttons. From edge to edge. |
+| 🖥️ **Beautiful UI**          | Every part of VS Code is themed — tabs, activity bar, side bar, status bar, panel, terminal, minimap, scrollbar, menus, dropdowns, buttons. Fully supports VS Code's **modern UI** (modern tabs, activity bar, and surfaces). From edge to edge. |
 | 🌙 **Eye-Friendly**          | Deep teal background (`#16222a`) reduces eye strain during long coding sessions.                                                                               |
 
 ---
