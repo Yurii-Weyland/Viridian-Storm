@@ -1803,7 +1803,7 @@
     {
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#FC2F63",
         "fontStyle": ""
       }
     },
@@ -1951,6 +1951,31 @@
       "settings": {
         "foreground": "#ff247f"
       }
+    },
+    {
+      "scope":"meta.object-literal.key.ts",
+      "settings": {
+        "foreground": "#E95343"
+      }
+    },
+    {
+      "scope":"meta.object-literal.key.js",
+      "settings": {
+        "foreground": "#E95343"
+      }
+    },
+    {
+      "scope":"meta.object-literal.key.tsx",
+      "settings": {
+        "foreground": "#E95343"
+      }
+    },
+    {
+      "scope":"meta.object-literal.key.jsx",
+      "settings": {
+        "foreground": "#E95343"
+      }
     }
+
   ]
 }

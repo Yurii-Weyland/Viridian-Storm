@@ -4,6 +4,20 @@ All notable changes to the "weyland-viridian-storm" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.3] - 2026-09-15
+
+### Added
+
+- Syntax highlighting for **object literal keys** in TS / JS / TSX / JSX:
+  - `meta.object-literal.key.ts`, `meta.object-literal.key.js`,
+    `meta.object-literal.key.tsx`, `meta.object-literal.key.jsx` — burnt orange `#E95343`
+
+### Changed
+
+- `variable.other.object` is now hot pink `#FC2F63` instead of plain white
+- Version bumped to 1.3.3
+- Version badge in `README.md` updated to 1.3.3
+
 ## [1.3.2] - 2026-09-11
 
 ### Added
